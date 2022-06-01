@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2do Parcial - Leandro Morales Rada</string>
+    <string name="txtTituloMain">Univalle\nRegistro</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellido">Apellido</string>
+    <string name="txtEdad">Edad</string>
+    <string name="txtCI">Carnet de Identidad (C.I)</string>
+    <string name="txtPais">Pais</string>
+    <string name="txtInteres">¿Está interasado en\nestudiar en Univalle?</string>
+    <string name="txtRegistrar">Registrar</string>
+    <string name="txtMostrar">Mostrar</string>
+</resources>
